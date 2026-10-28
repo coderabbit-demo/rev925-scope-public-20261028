@@ -14,7 +14,7 @@ reviews:
 knowledge_base:
   opt_out: false
   issues:
-    scope: global
+    scope: local
   pull_requests:
     scope: local
   learnings:
